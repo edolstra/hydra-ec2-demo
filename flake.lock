@@ -1,0 +1,37 @@
+{
+    "inputs": {
+        "hydra": {
+            "inputs": {
+                "nix": {
+                    "inputs": {
+                        "nixpkgs": {
+                            "inputs": {},
+                            "narHash": "sha256-ltGlDPfwicH/u4orj1n4JXgRsA+jvKQsGnekObi0TV4=",
+                            "originalUri": "nixpkgs/release-19.03",
+                            "uri": "github:edolstra/nixpkgs/9a593b575e4044f9aff939b512e7cb1cf1e76a65"
+                        }
+                    },
+                    "narHash": "sha256-m89j1BztPNjhdaDBj3Uolc11qRagbo+kpJwSsc/vbkA=",
+                    "originalUri": "nix",
+                    "uri": "github:NixOS/nix/a323b7826c1104a6404c5fdfd4a824a0d5598618"
+                },
+                "nixpkgs": {
+                    "inputs": {},
+                    "narHash": "sha256-ltGlDPfwicH/u4orj1n4JXgRsA+jvKQsGnekObi0TV4=",
+                    "originalUri": "nixpkgs/release-19.03",
+                    "uri": "github:edolstra/nixpkgs/9a593b575e4044f9aff939b512e7cb1cf1e76a65"
+                }
+            },
+            "narHash": "sha256-pTiYKZPYY2yS5XcVOJCnQWx+rPf7yBeO8yRkviOIBIQ=",
+            "originalUri": "/home/eelco/Dev/hydra",
+            "uri": "/home/eelco/Dev/hydra?ref=HEAD&rev=4b280689256bb62aff9982ae1a0f9d26bcbb6395"
+        },
+        "nixpkgs": {
+            "inputs": {},
+            "narHash": "sha256-ltGlDPfwicH/u4orj1n4JXgRsA+jvKQsGnekObi0TV4=",
+            "originalUri": "nixpkgs/release-19.03",
+            "uri": "github:edolstra/nixpkgs/9a593b575e4044f9aff939b512e7cb1cf1e76a65"
+        }
+    },
+    "version": 3
+}
