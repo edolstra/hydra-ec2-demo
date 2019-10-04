@@ -2,7 +2,6 @@
   edition = 201909;
 
   inputs.nixpkgs.uri = "nixpkgs/release-19.03";
-  inputs.hydra.uri = "/home/eelco/Dev/hydra";
 
   outputs = { self, nixpkgs, hydra }:
 
